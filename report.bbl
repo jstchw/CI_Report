@@ -1,0 +1,43 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{Amrutha \harvardand\ Remya~Ajai}{2018}{NNArticle1}
+Amrutha, J. \harvardand\ Remya~Ajai, A.~S.  \harvardyearleft
+  2018\harvardyearright , Performance analysis of backpropagation algorithm of
+  artificial neural networks in verilog, {\em in} `2018 3rd IEEE International
+  Conference on Recent Trends in Electronics, Information Communication
+  Technology (RTEICT)', pp.~1547--1550.
+\newblock [Online; accessed 18/05/2021].
+
+\harvarditem[Dang et~al.]{Dang, Song \harvardand\ Guo}{2010}{RobotArticle1}
+Dang, H., Song, J. \harvardand\ Guo, Q.  \harvardyearleft 2010\harvardyearright
+  , An efficient algorithm for robot maze-solving, {\em in} `2010 Second
+  International Conference on Intelligent Human-Machine Systems and
+  Cybernetics', Vol.~2, pp.~79--82.
+\newblock [Online; accessed 16/05/2021].
+
+\harvarditem[Deng et~al.]{Deng, Zhou, Shen, Xiao, Hong, Lin, Wu \harvardand\
+  Liao}{2021}{BPArticle1}
+Deng, Y., Zhou, X., Shen, J., Xiao, G., Hong, H., Lin, H., Wu, F. \harvardand\
+  Liao, B.-Q.  \harvardyearleft 2021\harvardyearright , `New methods based on
+  back propagation (bp) and radial basis function (rbf) artificial neural
+  networks (anns) for predicting the occurrence of haloketones in tap water',
+  {\em Science of The Total Environment} {\bf 772},~145534.
+\newblock [Online; accessed 16/05/2021].
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S0048969721006021}
+
+\harvarditem{{Siva Sathya} \harvardand\
+  Radhika}{2013}{GeneticAlgorithmArticle1}
+{Siva Sathya}, S. \harvardand\ Radhika, M.  \harvardyearleft
+  2013\harvardyearright , `Convergence of nomadic genetic algorithm on
+  benchmark mathematical functions', {\em Applied Soft Computing} {\bf
+  13}(5),~2759--2766.
+\newblock [Online; accessed 16/05/2021].
+\newline\harvardurl{https://www.sciencedirect.com/science/article/pii/S1568494612004954}
+
+\harvarditem{Wikipedia}{2021}{wiki:Backpropagation}
+Wikipedia  \harvardyearleft 2021\harvardyearright , `{Backpropagation} ---
+  {W}ikipedia{,} the free encyclopedia',
+  \url{http://en.wikipedia.org/w/index.php?title=Backpropagation&oldid=1013872709}.
+\newblock [Online; accessed 18/05/2021].
+
+\end{thebibliography}
